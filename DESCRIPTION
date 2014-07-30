@@ -1,0 +1,11 @@
+Package: compANN
+Type: Package
+Title: computes activation according to the _interactive activation and Competition_ (McClelland, 1981).
+Version: 1.0
+Date: 2014-07-30
+Author: Rene Mayer
+Maintainer: Who to complain to <rene_mayer@gmx.net>
+Description: IAC was originally written in C by James L. McClelland and David E. Rumelhart 1987 in their PDP software and is still freely aviable. This is an reimplementation with R under use of Rcpp and RcppArmadillo to be fast.
+License: GPL 2
+Depends: RcppArmadillo, Rcpp
+LinkingTo: RcppArmadillo, Rcpp

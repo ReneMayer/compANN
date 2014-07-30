@@ -1,0 +1,5 @@
+
+	useDynLib(compANN)
+
+	export("fun")
+	
